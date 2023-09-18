@@ -37,3 +37,18 @@
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </a>
 </p>
+
+### Build with
+1. React App - JavaScript library for building user interfaces.
+2. Webpack - module bundler.
+3. Typescript - strongly typed programming language that builds on JavaScript.
+4. Jest - JavaScript testing framework designed to ensure correctness of any JavaScript codebase.
+5. ESLint - tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
+6. Prettier - opinionated code formatter.
+7. Husky - tool that helps developers work with Git hooks more efficiently and run all the scripts that need to work at various stages.
+8. Redux Toolkit.
+9. React-router-dom — declarative routing for React web applications.
+10. Slick-carousel — cresponsive carousel jQuery plugin. 
+11. Yup — schema builder for runtime value parsing and validation.
+12. Ract-transition-group — exposes transition stages, manages classes and group elements and manipulates the DOM in useful ways.
+13. Sass — stable, and powerful professional grade CSS extension language in the world.
