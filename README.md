@@ -5,8 +5,6 @@
 *   I'm a Front-End Developer.
 *   How to reach me : <a href='mailto:suvorovaalexandra344@gmail.com'>suvorovaalexandra344@gmail.com</a> 📫</p>
 
-*   More information in CV: https://alexandra376.github.io/My-CV/
-
 <p align='center'>
     <a href="https://github.com/romankh3/github-readme-stats"><img height=150
                                                                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
