@@ -12,6 +12,11 @@
 
 ## 🛠 Technical Stack : 
 
+</p>    
+<p align='center'>
+    <a><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/></a>  
+</p>   
+
 <p align='center'>
     <a>
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -40,9 +45,5 @@
     <a><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"</a>   
     <a><img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white"/></a> 
     <a><img src="https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white"/></a>
-</p>    
-<p align='center'>
-    <a><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/></a>
-    <a><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/></a>
-    <a><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/></a>  
-</p>        
+    <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+    <a><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>     
