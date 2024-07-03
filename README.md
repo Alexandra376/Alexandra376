@@ -34,7 +34,7 @@
     <a>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </a>
-    <a><img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javas&logoColor=F7DF1E"/></a>  
+    <a><img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=javas&logoColor=F7DF1E"/></a>  
     <a><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/></a>  
     <a><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"</a>
     <a><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"</a>
