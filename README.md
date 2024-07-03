@@ -39,6 +39,7 @@
     <a><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"</a>
     <a><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"</a>   
     <a><img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white"/></a> 
+    <a><img src="https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white"/></a>
 </p>    
 <p align='center'>
     <a><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/></a>
