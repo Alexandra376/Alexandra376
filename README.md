@@ -16,7 +16,6 @@
 <p align='center'>
     <a><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/></a>  
 </p>   
-
 <p align='center'>
     <a>
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
