@@ -34,9 +34,10 @@
     <a>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </a>
+</p>    
+<p align='center'>
     <a><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/></a>
-    <a><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/></a>
     <a><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/></a>
     <a><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/></a>
     <a><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/></a>
-</p>
+</p>        
