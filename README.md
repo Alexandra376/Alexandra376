@@ -2,7 +2,7 @@
 
 ## <img width="44" alt="my-photo" src="https://github.com/Alexandra376/Alexandra376/assets/119896011/1775cc52-e31f-424c-96dd-fd5887e9fbb4"> About me :
 
-*   I'm a QA Engineer.
+*   I'm a QA Automation Engineer.
 *   How to reach me : <a href='mailto:suvorovaalexandra344@gmail.com'>suvorovaalexandra344@gmail.com</a> 📫</p>
 
 <p align='center'>
